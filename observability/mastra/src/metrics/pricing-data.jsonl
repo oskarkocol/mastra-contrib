@@ -4269,7 +4269,7 @@
 {"i":"e8f8d3741795b85a","p":"sambanova","m":"deepseek-deepseek-chat-v3-1","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.5e-7},"ot":{"c":7.5e-7}}}]}}}
 {"i":"c4049ecd132919f4","p":"sambanova","m":"deepseek-deepseek-v3-2","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3e-6},"ot":{"c":4.5e-6}}}]}}}
 {"i":"4f1ca3ead7155f84","p":"sambanova","m":"gemma-3-12b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2e-7},"ot":{"c":3.5e-7}}}]}}}
-{"i":"cfdc853829ad47ea","p":"sambanova","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.4e-7},"ot":{"c":9.5e-7}}}]}}}
+{"i":"cfdc853829ad47ea","p":"sambanova","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":0.000003},"ot":{"c":0.0000045}}}]}}}
 {"i":"f5f3273addceb9e5","p":"sambanova","m":"meta-llama-llama-3-3-70b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4.5e-7},"ot":{"c":9e-7}}}]}}}
 {"i":"5e3cef7c486d9682","p":"sambanova","m":"meta-llama-llama-4-maverick","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6.3e-7},"ot":{"c":1.8e-6}}}]}}}
 {"i":"d93fabf12728d6e5","p":"sambanova","m":"minimax-m2-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3e-7},"ot":{"c":1.2e-6}}}]}}}
