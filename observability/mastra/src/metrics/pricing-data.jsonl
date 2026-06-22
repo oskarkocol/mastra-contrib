@@ -1119,13 +1119,13 @@
 {"i":"0ab25919dc6486eb","p":"deepinfra","m":"deepseek-deepseek-r1-distill-llama-70b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7e-7},"ot":{"c":8e-7}}}]}}}
 {"i":"8118c0a0ad482c2a","p":"deepinfra","m":"deepseek-deepseek-v3-1-terminus","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.3e-7},"it":{"c":2.1e-7},"ot":{"c":7.9e-7}}}]}}}
 {"i":"3821b9406ab8b8f2","p":"deepinfra","m":"deepseek-deepseek-v3-2","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.6e-7},"ot":{"c":3.8e-7}}}]}}}
-{"i":"7031a5844dd67191","p":"deepinfra","m":"gemma-3-12b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4e-8},"ot":{"c":1.3e-7}}}]}}}
-{"i":"95318556dbaa921a","p":"deepinfra","m":"gemma-3-27b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":8e-8},"ot":{"c":1.6e-7}}}]}}}
+{"i":"7031a5844dd67191","p":"deepinfra","m":"gemma-3-12b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-8},"ot":{"c":1e-7}}}]}}}
+{"i":"95318556dbaa921a","p":"deepinfra","m":"gemma-3-27b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":9e-8},"ot":{"c":1.6e-7}}}]}}}
 {"i":"339014126195a478","p":"deepinfra","m":"gemma-3-4b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4e-8},"ot":{"c":8e-8}}}]}}}
 {"i":"4eb40007ccc95a4f","p":"deepinfra","m":"gemma-4-26b-a4b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7e-8},"ot":{"c":3.4e-7}}}]}}}
 {"i":"c1490ac32783b2f3","p":"deepinfra","m":"gemma-4-31b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.3e-7},"ot":{"c":3.8e-7}}}]}}}
-{"i":"502b6b984058db55","p":"deepinfra","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-8},"ot":{"c":2.4e-7}}}]}}}
-{"i":"3a14f5d98897c496","p":"deepinfra","m":"gpt-oss-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3e-8},"ot":{"c":1.4e-7}}}]}}}
+{"i":"502b6b984058db55","p":"deepinfra","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-8},"ot":{"c":4.5e-7}}}]}}}
+{"i":"3a14f5d98897c496","p":"deepinfra","m":"gpt-oss-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4e-8},"ot":{"c":1.5e-7}}}]}}}
 {"i":"8b9b5380b8ec2d3b","p":"deepinfra","m":"gryphe-mythomax-l2-13b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4e-7},"ot":{"c":4e-7}}}]}}}
 {"i":"5c284efe53c2dc4f","p":"deepinfra","m":"meta-llama-llama-3-1-70b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4e-7},"ot":{"c":4e-7}}}]}}}
 {"i":"cc2f49b369b312a2","p":"deepinfra","m":"meta-llama-llama-3-1-70b-instruct-turbo","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4e-7},"ot":{"c":4e-7}}}]}}}
