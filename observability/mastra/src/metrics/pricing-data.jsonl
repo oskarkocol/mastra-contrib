@@ -1199,8 +1199,8 @@
 {"i":"c53c24e2377e0a32","p":"deepseek","m":"deepseek-chat","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.8e-8},"it":{"c":1.4e-7},"ot":{"c":2.8e-7}}}]}}}
 {"i":"2f47a0e45c821cd6","p":"deepseek","m":"deepseek-deepseek-chat","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.4e-8},"ot":{"c":2.8e-8}}}]}}}
 {"i":"54793653634e859d","p":"deepseek","m":"deepseek-reasoner","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.8e-8},"it":{"c":1.4e-7},"ot":{"c":2.8e-7}}}]}}}
-{"i":"61d3efbb769d5822","p":"deepseek","m":"deepseek-v4-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.8e-8},"it":{"c":1.4e-7},"ot":{"c":2.8e-7}}}]}}}
-{"i":"d89dd50d1483d66f","p":"deepseek","m":"deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.45e-7},"it":{"c":1.74e-6},"ot":{"c":3.48e-6}}}]}}}
+{"i":"61d3efbb769d5822","p":"deepseek","m":"deepseek-v4-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.4e-7},"ot":{"c":2.8e-7},"icrt":{"c":2.8e-9}}}]}}}
+{"i":"d89dd50d1483d66f","p":"deepseek","m":"deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":4.35e-7},"ot":{"c":8.7e-7},"icrt":{"c":3.625e-9}}}]}}}
 {"i":"add1de9cdd888dea","p":"digitalocean","m":"alibaba-qwen3-32b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.5e-7},"ot":{"c":5.5e-7}}}]}}}
 {"i":"bb9bbdfb95ae7c45","p":"digitalocean","m":"arcee-trinity-large-thinking","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":6e-8},"it":{"c":2.5e-7},"ot":{"c":9e-7}}}]}}}
 {"i":"3920ee23e2ebed3e","p":"digitalocean","m":"claude-3-5-haiku","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":8e-8},"icwt":{"c":1e-6},"it":{"c":8e-7},"ot":{"c":4e-6}}}]}}}
