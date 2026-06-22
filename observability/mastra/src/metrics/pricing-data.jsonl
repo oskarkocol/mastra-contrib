@@ -855,13 +855,13 @@
 {"i":"ae549642824cf7db","p":"berget","m":"mistralai-mistral-small-3-2-24b-instruct-2506","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3.3e-7},"ot":{"c":3.3e-7}}}]}}}
 {"i":"126d811a457845ae","p":"berget","m":"zai-org-glm-4-7","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7.7e-7},"ot":{"c":2.75e-6}}}]}}}
 {"i":"23758012b6c7c6fc","p":"black-forest-labs","m":"black-forest-labs-flux-2-flex","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6e-2},"ot":{"c":6e-2}}}]}}}
-{"i":"d10c70f8d539f84d","p":"cerebras","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.5e-7},"ot":{"c":6.9e-7}}}]}}}
+{"i":"d10c70f8d539f84d","p":"cerebras","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3.5e-7},"ot":{"c":7.5e-7},"icrt":{"c":3.5e-7}}}]}}}
 {"i":"92fe4d6f89a13513","p":"cerebras","m":"llama3-1-8b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-7},"ot":{"c":1e-7}}}]}}}
 {"i":"e95ffb8bcdbd5cea","p":"cerebras","m":"meta-llama-llama-3-1-8b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-7},"ot":{"c":1e-7}}}]}}}
 {"i":"bce216b3abd7c583","p":"cerebras","m":"qwen-3-235b-a22b-instruct-2507","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6e-7},"ot":{"c":1.2e-6}}}]}}}
 {"i":"81cbd76042036e40","p":"cerebras","m":"qwen-qwen3-235b-a22b-2507","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6e-7},"ot":{"c":1.2e-6}}}]}}}
 {"i":"90f5bc77c8af5dfd","p":"cerebras","m":"z-ai-glm-4-7","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.25e-6},"ot":{"c":2.75e-6}}}]}}}
-{"i":"373a34391065a4cf","p":"cerebras","m":"zai-glm-4-7","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.25e-6},"ot":{"c":2.75e-6}}}]}}}
+{"i":"373a34391065a4cf","p":"cerebras","m":"zai-glm-4-7","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":0.00000225},"ot":{"c":0.00000275},"icrt":{"c":0.00000225}}}]}}}
 {"i":"6717ecc9df4ec91f","p":"chutes","m":"chutesai-mistral-small-3-1-24b-instruct-2503","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.5e-8},"it":{"c":3e-8},"ot":{"c":1.1e-7}}}]}}}
 {"i":"a232caf8c407f009","p":"chutes","m":"chutesai-mistral-small-3-2-24b-instruct-2506","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6e-8},"ot":{"c":1.8e-7}}}]}}}
 {"i":"10b81cff4d51f4c6","p":"chutes","m":"deepseek-ai-deepseek","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3e-7},"ot":{"c":1.2e-6}}}]}}}
