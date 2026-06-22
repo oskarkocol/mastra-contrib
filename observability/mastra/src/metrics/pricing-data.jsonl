@@ -3169,8 +3169,8 @@
 {"i":"744717f3ae5f196b","p":"nebius","m":"deepseek-ai-deepseek-v3-2-fast","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4e-8},"icwt":{"c":5e-7},"it":{"c":4e-7},"ot":{"c":2e-6}}}]}}}
 {"i":"283a0b9fdae5ef70","p":"nebius","m":"deepseek-ai-deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.5e-7},"it":{"c":1.75e-6},"ot":{"c":3.5e-6}}}]}}}
 {"i":"c2a139ba79972428","p":"nebius","m":"gemma-2-2b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-9},"icwt":{"c":2.5e-8},"it":{"c":2e-8},"ot":{"c":6e-8}}}]}}}
-{"i":"64f033c23938c59a","p":"nebius","m":"gemma-3-27b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1e-8},"icwt":{"c":1.25e-7},"it":{"c":1e-7},"ot":{"c":3e-7}}}]}}}
-{"i":"c1e745345680ecca","p":"nebius","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.5e-8},"icwt":{"c":1.8e-7},"it":{"c":1.5e-7},"ort":{"c":6e-7},"ot":{"c":6e-7}}}]}}}
+{"i":"64f033c23938c59a","p":"nebius","m":"gemma-3-27b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-7},"ot":{"c":3e-7}}}]}}}
+{"i":"c1e745345680ecca","p":"nebius","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.5e-7},"ot":{"c":6e-7}}}]}}}
 {"i":"df2cf52f7f6e7254","p":"nebius","m":"gpt-oss-120b-fast","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1e-8},"icwt":{"c":1.25e-7},"it":{"c":1e-7},"ot":{"c":5e-7}}}]}}}
 {"i":"5e4ec36fd247e4d7","p":"nebius","m":"meta-llama-llama-3-1-8b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2e-8},"ot":{"c":6e-8}}}]}}}
 {"i":"df4547d3dd0214fc","p":"nebius","m":"meta-llama-llama-3-3-70b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.3e-8},"icwt":{"c":1.6e-7},"it":{"c":1.3e-7},"ot":{"c":4e-7}}}]}}}
