@@ -4489,7 +4489,7 @@
 {"i":"7228aedb22be2d65","p":"stackit","m":"qwen-qwen3-vl-embedding-8b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":9e-8},"ot":{"c":9e-8}}}]}}}
 {"i":"494190e578f51296","p":"stepfun","m":"step-1-32k","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4.1e-7},"it":{"c":2.05e-6},"ot":{"c":9.59e-6}}}]}}}
 {"i":"d835b9d20deaee39","p":"stepfun","m":"step-2-16k","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.04e-6},"it":{"c":5.21e-6},"ot":{"c":1.644e-5}}}]}}}
-{"i":"b246e2fa4ec62756","p":"stepfun","m":"step-3-5-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.9e-8},"it":{"c":9.6e-8},"ot":{"c":2.88e-7}}}]}}}
+{"i":"b246e2fa4ec62756","p":"stepfun","m":"step-3-5-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-7},"ot":{"c":3e-7},"icrt":{"c":2e-8}}}]}}}
 {"i":"a79b5695a78447c0","p":"stepfun","m":"step-3-5-flash-2603","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-8},"it":{"c":1e-7},"ot":{"c":3e-7}}}]}}}
 {"i":"4181eee9f7c7eeeb","p":"streamlake","m":"kwaipilot-kat-coder-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":6e-8},"it":{"c":3e-7},"ot":{"c":1.2e-6}}}]}}}
 {"i":"d02ce88baf0e1694","p":"streamlake","m":"z-ai-glm-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.3e-7},"it":{"c":6.5e-7},"ot":{"c":2.08e-6}}}]}}}
