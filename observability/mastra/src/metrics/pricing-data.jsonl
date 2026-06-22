@@ -1734,9 +1734,9 @@
 {"i":"5850bcc09d469784","p":"groq","m":"deepseek-r1-distill-llama-70b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7.5e-7},"ot":{"c":9.9e-7}}}]}}}
 {"i":"95fa5fd52f4c1b4f","p":"groq","m":"gemma-7b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7e-8},"ot":{"c":7e-8}}}]}}}
 {"i":"2bec9fc9cc5d371e","p":"groq","m":"gemma2-9b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2e-7},"ot":{"c":2e-7}}}]}}}
-{"i":"0c7ef44c5b6a7758","p":"groq","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":7.5e-8},"it":{"c":1.5e-7},"ot":{"c":6e-7}}}]}}}
-{"i":"5a6815e51d8f168b","p":"groq","m":"gpt-oss-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3.75e-8},"it":{"c":7.5e-8},"ot":{"c":3e-7}}}]}}}
-{"i":"6f172e266b79e7d3","p":"groq","m":"gpt-oss-safeguard-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3.7e-8},"it":{"c":7.5e-8},"ot":{"c":3e-7}}}]}}}
+{"i":"0c7ef44c5b6a7758","p":"groq","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.5e-7},"ot":{"c":6e-7},"icrt":{"c":7.5e-8}}}]}}}
+{"i":"5a6815e51d8f168b","p":"groq","m":"gpt-oss-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7.5e-8},"ot":{"c":3e-7},"icrt":{"c":3.75e-8}}}]}}}
+{"i":"6f172e266b79e7d3","p":"groq","m":"gpt-oss-safeguard-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":7.5e-8},"ot":{"c":3e-7}}}]}}}
 {"i":"140d20dc84dae11b","p":"groq","m":"llama-3-1-8b-instant","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-8},"ot":{"c":8e-8}}}]}}}
 {"i":"8a5ff0dea5d12aec","p":"groq","m":"llama-3-3-70b-versatile","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5.9e-7},"ot":{"c":7.9e-7}}}]}}}
 {"i":"6fc5d690e1c462df","p":"groq","m":"llama-guard-3-8b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2e-7},"ot":{"c":2e-7}}}]}}}
