@@ -978,7 +978,7 @@
 {"i":"84b95e73037b8fe4","p":"bytedance-seed","m":"bytedance-seed-seed-2-0-mini","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-7},"ot":{"c":4e-7}}}]}}}
 {"i":"a34ca806c45aa460","p":"cerebras","m":"gemma-4-31b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":9.9e-7},"ot":{"c":1.49e-6}}}]}}}
 {"i":"d91cea417208222c","p":"cerebras","m":"gemma-4-31b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":9.9e-7},"ot":{"c":1.49e-6}}}]}}}
-{"i":"d10c70f8d539f84d","p":"cerebras","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3.5e-7},"ot":{"c":7.5e-7}}}]}}}
+{"i":"d10c70f8d539f84d","p":"cerebras","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3.5e-07},"ot":{"c":7.5e-07},"icrt":{"c":3.5e-07}}}]}}}
 {"i":"90f5bc77c8af5dfd","p":"cerebras","m":"z-ai-glm-4-7","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.25e-6},"ot":{"c":2.75e-6}}}]}}}
 {"i":"373a34391065a4cf","p":"cerebras","m":"zai-glm-4-7","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.25e-6},"it":{"c":2.25e-6},"ot":{"c":2.75e-6}}}]}}}
 {"i":"d1d4146a41823877","p":"chutes","m":"deepseek-ai-deepseek-v3-2-tee","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":5e-7},"it":{"c":1e-6},"ot":{"c":1e-6}}}]}}}
