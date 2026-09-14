@@ -1423,7 +1423,7 @@
 {"i":"6c4e0a08ef7ce92c","p":"digitalocean","m":"claude-sonnet-4","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-7},"icwt":{"c":3.75e-6},"it":{"c":3e-6},"ot":{"c":1.5e-5}}},{"w":[{"f":"tit","op":"gt","value":200000}],"r":{"icrt":{"c":3e-7},"icwt":{"c":3.75e-6},"it":{"c":6e-6},"ot":{"c":2.25e-5}}}]}}}
 {"i":"c9538147ab58c472","p":"digitalocean","m":"deepseek-3-2","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-7},"ot":{"c":1.6e-6}}}]}}}
 {"i":"1c31b569a753569a","p":"digitalocean","m":"deepseek-r1-distill-llama-70b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":9.9e-7},"ot":{"c":9.9e-7}}}]}}}
-{"i":"2e2f54d69509ead3","p":"digitalocean","m":"deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.74e-6},"ot":{"c":3.48e-6}}}]}}}
+{"i":"2e2f54d69509ead3","p":"digitalocean","m":"deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":8.7e-7},"ot":{"c":0.00000174},"icrt":{"c":1.74e-7}}}]}}}
 {"i":"055de578d888e716","p":"digitalocean","m":"gemma-4-31b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.8e-7},"ot":{"c":5e-7}}}]}}}
 {"i":"d10c2d0604bad09a","p":"digitalocean","m":"glm-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-6},"ot":{"c":3.2e-6}}}]}}}
 {"i":"13f3edc9d39b2a55","p":"digitalocean","m":"glm-5-1","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.6e-7},"it":{"c":9.75e-7},"ot":{"c":4.3e-6}}}]}}}
@@ -1449,7 +1449,7 @@
 {"i":"b31583dcbeed96e7","p":"digitalocean","m":"gpt-oss-20b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-8},"ot":{"c":4.5e-7}}}]}}}
 {"i":"284aa31c1d1e2627","p":"digitalocean","m":"kimi-k2-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":5e-7},"ot":{"c":2.7e-6}}}]}}}
 {"i":"ed90857b914ed294","p":"digitalocean","m":"kimi-k2-6","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":9.5e-7},"ot":{"c":4e-6}}}]}}}
-{"i":"d880547210b1e3a5","p":"digitalocean","m":"llama-4-maverick","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.5e-7},"ot":{"c":8.7e-7}}}]}}}
+{"i":"d880547210b1e3a5","p":"digitalocean","m":"llama-4-maverick","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2e-7},"ot":{"c":6.96e-7}}}]}}}
 {"i":"c183ca86cd7ab905","p":"digitalocean","m":"llama3-3-70b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6.5e-7},"ot":{"c":6.5e-7}}}]}}}
 {"i":"ac2347cb98981a17","p":"digitalocean","m":"llama3-8b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.98e-7},"ot":{"c":1.98e-7}}}]}}}
 {"i":"c8b7209a4a7c0189","p":"digitalocean","m":"m2-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3e-7},"ot":{"c":1.2e-6}}}]}}}
