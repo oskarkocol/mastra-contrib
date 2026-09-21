@@ -1699,7 +1699,7 @@
 {"i":"284aa31c1d1e2627","p":"digitalocean","m":"kimi-k2-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.03e-7},"it":{"c":5e-7},"ot":{"c":2.7e-6}}}]}}}
 {"i":"ed90857b914ed294","p":"digitalocean","m":"kimi-k2-6","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.9e-7},"it":{"c":9.5e-7},"ot":{"c":4e-6}}}]}}}
 {"i":"e1598ab79a3d32b1","p":"digitalocean","m":"kimi-k3","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.85e-7},"it":{"c":2.55e-6},"ot":{"c":1.295e-5}}}]}}}
-{"i":"d880547210b1e3a5","p":"digitalocean","m":"llama-4-maverick","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2e-7},"ot":{"c":6.96e-7}}}]}}}
+{"i":"d880547210b1e3a5","p":"digitalocean","m":"llama-4-maverick","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":2.5e-7},"ot":{"c":8.7e-7}}}]}}}
 {"i":"c183ca86cd7ab905","p":"digitalocean","m":"llama3-3-70b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6.5e-7},"ot":{"c":6.5e-7}}}]}}}
 {"i":"ac2347cb98981a17","p":"digitalocean","m":"llama3-8b-instruct","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.98e-7},"ot":{"c":1.98e-7}}}]}}}
 {"i":"c8b7209a4a7c0189","p":"digitalocean","m":"m2-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":6e-8},"it":{"c":3e-7},"ot":{"c":1.2e-6}}}]}}}
