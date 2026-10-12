@@ -797,7 +797,7 @@
 {"i":"0b3f875ae350c5ed","p":"anthropic","m":"claude-sonnet-4-6-batch","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.5e-7},"icwt":{"c":1.875e-6},"it":{"c":1.5e-6},"ot":{"c":7.5e-6}}}]}}}
 {"i":"b0fc1c6cea10c76c","p":"anthropic","m":"claude-sonnet-4-retired-except-on-bedrock-and-google-cloud","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-7},"it":{"c":3e-6},"ot":{"c":1.5e-5}}}]}}}
 {"i":"916837951831cfe5","p":"anthropic","m":"claude-sonnet-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-7},"icwt":{"c":2.5e-6},"it":{"c":2e-6},"ot":{"c":1e-5}}}]}}}
-{"i":"3b57995f4edf4e9c","p":"anthropic","m":"claude-sonnet-5-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-7},"icwt":{"c":2.5e-6},"it":{"c":2e-6},"ot":{"c":1e-5}}}]}}}
+{"i":"3b57995f4edf4e9c","p":"anthropic","m":"claude-sonnet-5-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1e-7},"icwt":{"c":0.0000025},"it":{"c":0.000002},"ot":{"c":0.00001}}}]}}}
 {"i":"48b291687500e530","p":"anthropic","m":"claude-sonnet-5-5-batch","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1e-7},"icwt":{"c":1.25e-6},"it":{"c":1e-6},"ot":{"c":5e-6}}}]}}}
 {"i":"a446922f8123a7a4","p":"anthropic","m":"claude-sonnet-5-batch","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1e-7},"icwt":{"c":1.25e-6},"it":{"c":1e-6},"ot":{"c":5e-6}}}]}}}
 {"i":"b0cbd8e03bbecab3","p":"anthropic","m":"claude-sonnet-latest","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-7},"icwt":{"c":2.5e-6},"it":{"c":2e-6},"ot":{"c":1e-5}}}]}}}
