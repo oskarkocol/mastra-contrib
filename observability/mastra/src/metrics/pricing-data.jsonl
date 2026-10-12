@@ -8262,12 +8262,12 @@
 {"i":"0040122785ede5b4","p":"tokengo","m":"z-ai-glm-5-2","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.6e-7},"it":{"c":1.4e-6},"ot":{"c":4.4e-6}}}]}}}
 {"i":"06b8e972e7425d3d","p":"tokengo","m":"z-ai-glm-5-3","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.6e-7},"it":{"c":1.4e-6},"ot":{"c":4.4e-6}}}]}}}
 {"i":"82be6b108c2717ae","p":"tokengo","m":"z-ai-glm-5-3-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":1.5e-8},"it":{"c":7.5e-8},"ot":{"c":2.5e-8}}}]}}}
-{"i":"ea06f09df3f258cd","p":"umans-ai","m":"umans-coder","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-8},"it":{"c":1.5e-7},"ot":{"c":5e-7}}}]}}}
+{"i":"ea06f09df3f258cd","p":"umans-ai","m":"umans-coder","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.5e-7},"ot":{"c":5e-7}}}]}}}
 {"i":"dea318718048d5c0","p":"umans-ai","m":"umans-deepseek-v4-1-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.8e-8},"it":{"c":1.5e-7},"ot":{"c":6e-7}}}]}}}
-{"i":"0127eda07a9b01aa","p":"umans-ai","m":"umans-deepseek-v4-flash-0731","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.8e-8},"it":{"c":1.4e-7},"ot":{"c":2.8e-7}}}]}}}
-{"i":"9fe0c5a737dcacdc","p":"umans-ai","m":"umans-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":5e-8},"it":{"c":1.5e-7},"ot":{"c":1e-6}}}]}}}
+{"i":"0127eda07a9b01aa","p":"umans-ai","m":"umans-deepseek-v4-flash-0731","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.4e-7},"ot":{"c":2.8e-7}}}]}}}
+{"i":"9fe0c5a737dcacdc","p":"umans-ai","m":"umans-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.5e-7},"ot":{"c":0.000001}}}]}}}
 {"i":"281031d588a0bdd5","p":"umans-ai","m":"umans-glm-5-3-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-8},"it":{"c":1.5e-7},"ot":{"c":5e-7}}}]}}}
-{"i":"2be7a854f7d1fa85","p":"umans-ai","m":"umans-kimi-k3","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-7},"it":{"c":3e-6},"ot":{"c":1.5e-5}}}]}}}
+{"i":"2be7a854f7d1fa85","p":"umans-ai","m":"umans-kimi-k3","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":0.000003},"ot":{"c":0.000015}}}]}}}
 {"i":"b65237bc3a079ad6","p":"unbiased","m":"unbiased-pareto","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.5e-7},"it":{"c":2.5e-6},"ot":{"c":7.5e-6}}}]}}}
 {"i":"01d5d662bb4ed6e1","p":"undi95","m":"undi95-remm-slerp-l2-13b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3.5e-7},"ot":{"c":6.5e-7}}}]}}}
 {"i":"2704644c07fdaafb","p":"unorouter","m":"claude-haiku-4-5","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1.2e-6},"ot":{"c":6e-6}}}]}}}
