@@ -1826,10 +1826,10 @@
 {"i":"189b5b4e9de33cc2","p":"deepseek","m":"deepseek-deepseek-v4-flash-vision-exp","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":6.86e-9},"it":{"c":2.156e-7},"ot":{"c":6.468e-7}}}]}}}
 {"i":"508cd88ca09cd3fb","p":"deepseek","m":"deepseek-deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4.4e-8},"it":{"c":1.32e-6},"ot":{"c":3.96e-6}}}]}}}
 {"i":"7a1069654d3d9530","p":"deepseek","m":"deepseek-deepseek-v4-pro-0813","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4.4e-8},"it":{"c":1.32e-6},"ot":{"c":3.96e-6}}}]}}}
-{"i":"fd82f97f3eb1e063","p":"deepseek","m":"deepseek-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-9},"it":{"c":1.5e-7},"ort":{"c":6e-7},"ot":{"c":6e-7}}}]}}}
+{"i":"fd82f97f3eb1e063","p":"deepseek","m":"deepseek-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":6e-9},"it":{"c":3e-7},"ot":{"c":0.0000012}}}]}}}
 {"i":"61d3efbb769d5822","p":"deepseek","m":"deepseek-v4-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-9},"it":{"c":1.5e-7},"ort":{"c":6e-7},"ot":{"c":6e-7}}}]}}}
 {"i":"db06ea0bee3308be","p":"deepseek","m":"deepseek-v4-flash-vision-exp","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3e-9},"it":{"c":1.5e-7},"ort":{"c":6e-7},"ot":{"c":6e-7}}}]}}}
-{"i":"d89dd50d1483d66f","p":"deepseek","m":"deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3.625e-9},"it":{"c":4.35e-7},"ort":{"c":8.7e-7},"ot":{"c":8.7e-7}}}]}}}
+{"i":"d89dd50d1483d66f","p":"deepseek","m":"deepseek-v4-pro","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2.2e-8},"it":{"c":6.6e-7},"ot":{"c":0.00000198}}}]}}}
 {"i":"88b249a96c6572c9","p":"dekallm","m":"deepseek-deepseek-v4-1-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":5e-9},"it":{"c":1.2e-7},"ot":{"c":4e-7}}}]}}}
 {"i":"5ba7d63c66a70bdf","p":"dekallm","m":"gemma-4-26b-a4b-it","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":6e-8},"ot":{"c":3.3e-7}}}]}}}
 {"i":"35e97c092f7637a8","p":"dekallm","m":"gpt-oss-120b","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":3e-8},"ot":{"c":1.8e-7}}}]}}}
