@@ -7869,7 +7869,7 @@
 {"i":"b246e2fa4ec62756","p":"stepfun","m":"step-3-5-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-8},"it":{"c":1e-7},"ot":{"c":3e-7}}}]}}}
 {"i":"a79b5695a78447c0","p":"stepfun","m":"step-3-5-flash-2603","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":2e-8},"it":{"c":1e-7},"ot":{"c":3e-7}}}]}}}
 {"i":"ee5d28aec139d352","p":"stepfun","m":"step-3-7-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":3.7e-8},"it":{"c":1.85e-7},"ot":{"c":1.11e-6}}}]}}}
-{"i":"c2f81a13c0c3ca79","p":"stepfun","m":"step-5-preview","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4.8e-8},"it":{"c":9.59e-7},"ot":{"c":2.741e-6}}}]}}}
+{"i":"c2f81a13c0c3ca79","p":"stepfun","m":"step-5-preview","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":5e-8},"it":{"c":0.000001},"ot":{"c":0.0000027}}}]}}}
 {"i":"9e5cbf7cca4722ae","p":"stepfun","m":"stepfun-step-3-5-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"it":{"c":1e-7},"ot":{"c":3e-7}}}]}}}
 {"i":"ef207714c5dfe187","p":"stepfun","m":"stepfun-step-3-7-flash","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4e-8},"it":{"c":2e-7},"ot":{"c":1.15e-6}}}]}}}
 {"i":"e305ca54ecb63bfa","p":"stepfun-ai","m":"step-1-32k","s":{"v":"model_pricing/v1","d":{"u":"USD","t":[{"r":{"icrt":{"c":4.1e-7},"it":{"c":2.05e-6},"ot":{"c":9.59e-6}}}]}}}
