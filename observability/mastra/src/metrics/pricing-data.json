@@ -15663,7 +15663,7 @@
       "openai/gpt-oss-120b": {
         "cost": {
           "input": 0.05,
-          "output": 0.2,
+          "output": 0.25,
           "cache_read": 0.05
         }
       },
