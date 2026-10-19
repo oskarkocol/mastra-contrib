@@ -48393,7 +48393,8 @@
           "context_over_200k": {
             "input": 60,
             "output": 270
-          }
+          },
+          "cache_read": 3.0
         }
       },
       "gpt-5.6": {
