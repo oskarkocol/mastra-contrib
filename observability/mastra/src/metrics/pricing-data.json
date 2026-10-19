@@ -11487,20 +11487,20 @@
     "models": {
       "Qwen/Qwen3.8-27B-FP8": {
         "cost": {
-          "input": 0.46,
-          "output": 3.48
+          "input": 0.4,
+          "output": 3.0
         }
       },
       "google/gemma-4-31B-it": {
         "cost": {
-          "input": 0.275,
-          "output": 0.55
+          "input": 0.25,
+          "output": 0.5
         }
       },
       "mistralai/Mistral-Small-3.2-24B-Instruct-2506": {
         "cost": {
-          "input": 0.33,
-          "output": 0.33
+          "input": 0.3,
+          "output": 0.3
         }
       },
       "moonshotai/Kimi-K3": {
@@ -11517,8 +11517,8 @@
       },
       "zai-org/GLM-5.3-Flash": {
         "cost": {
-          "input": 0.29,
-          "output": 0.58
+          "input": 0.25,
+          "output": 0.5
         }
       }
     }
