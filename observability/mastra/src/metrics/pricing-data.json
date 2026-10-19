@@ -61186,8 +61186,9 @@
       },
       "openai/gpt-oss-120b": {
         "cost": {
-          "input": 0.05,
-          "output": 0.45
+          "input": 0.15,
+          "output": 0.6,
+          "cache_read": 0.075
         }
       },
       "openai/gpt-oss-20b": {
