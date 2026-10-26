@@ -71154,9 +71154,9 @@
       },
       "reflection/Beam-1.0-501B-A23B": {
         "cost": {
-          "input": 0.3,
-          "output": 1,
-          "cache_read": 0.04
+          "input": 1.0,
+          "output": 3.0,
+          "cache_read": 0.1
         }
       },
       "zai-org/GLM-5.2": {
