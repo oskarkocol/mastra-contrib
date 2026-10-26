@@ -17277,10 +17277,10 @@
     "models": {
       "deepseek-flash": {
         "cost": {
-          "input": 0.15,
-          "output": 0.6,
+          "input": 0.3,
+          "output": 1.2,
           "reasoning": 0.6,
-          "cache_read": 0.003
+          "cache_read": 0.006
         }
       },
       "deepseek-v4-flash": {
