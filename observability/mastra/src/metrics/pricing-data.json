@@ -66189,26 +66189,22 @@
       "gemini-3-1-pro-preview": {
         "cost": {
           "input": 2.5,
-          "output": 15,
+          "output": 15.0,
           "cache_read": 0.5,
           "cache_write": 0.5,
           "tiers": [
             {
-              "input": 5,
-              "output": 22.5,
-              "cache_read": 0.5,
-              "cache_write": 0.5,
               "tier": {
                 "type": "context",
                 "size": 200000
-              }
+              },
+              "input": 5.0,
+              "output": 22.5
             }
           ],
           "context_over_200k": {
-            "input": 5,
-            "output": 22.5,
-            "cache_read": 0.5,
-            "cache_write": 0.5
+            "input": 5.0,
+            "output": 22.5
           }
         }
       },
@@ -66230,22 +66226,22 @@
       "gemini-3-6-flash": {
         "cost": {
           "input": 0.9375,
-          "output": 4.6875,
-          "cache_read": 0.09375
+          "output": 4.68749999,
+          "cache_read": 0.0938
         }
       },
       "gemini-3-7-flash": {
         "cost": {
           "input": 0.9375,
-          "output": 4.6875,
-          "cache_read": 0.09375
+          "output": 4.68749999,
+          "cache_read": 0.0938
         }
       },
       "gemini-3-8-flash": {
         "cost": {
           "input": 0.9375,
-          "output": 4.6875,
-          "cache_read": 0.09375
+          "output": 4.68749999,
+          "cache_read": 0.0938
         }
       },
       "gemini-3-flash-preview": {
@@ -66464,9 +66460,9 @@
       },
       "inkling": {
         "cost": {
-          "input": 0.5625,
-          "output": 1.5,
-          "cache_read": 0.125
+          "input": 1.25,
+          "output": 5.0625,
+          "cache_read": 0.2125
         }
       },
       "kimi-k2-5": {
@@ -66534,7 +66530,7 @@
         "cost": {
           "input": 0.3125,
           "output": 0.9375,
-          "cache_read": 0.03125
+          "cache_read": 0.0312
         }
       },
       "mercury-2-5": {
@@ -66562,7 +66558,7 @@
         "cost": {
           "input": 0.375,
           "output": 1.5,
-          "cache_read": 0.06875
+          "cache_read": 0.06879999
         }
       },
       "minimax-m3-1-flash": {
@@ -66581,7 +66577,7 @@
       },
       "mistral-small-3-2-24b-instruct": {
         "cost": {
-          "input": 0.09375,
+          "input": 0.0938,
           "output": 0.25
         }
       },
@@ -67073,14 +67069,12 @@
           "cache_write": 0.78,
           "tiers": [
             {
-              "input": 2.5,
-              "output": 7.5,
-              "cache_read": 0.0625,
-              "cache_write": 0.78,
               "tier": {
                 "type": "context",
                 "size": 256000
-              }
+              },
+              "input": 2.5,
+              "output": 7.5
             }
           ],
           "context_over_200k": {
@@ -67240,7 +67234,7 @@
         "cost": {
           "input": 0.175,
           "output": 0.35,
-          "cache_read": 0.00375
+          "cache_read": 0.0038
         }
       },
       "z-ai-glm-5-3": {
