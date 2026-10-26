@@ -49278,22 +49278,23 @@
       },
       "gpt-5.5-pro": {
         "cost": {
-          "input": 30,
-          "output": 180,
+          "input": 30.0,
+          "output": 180.0,
           "tiers": [
             {
-              "input": 60,
-              "output": 270,
               "tier": {
                 "type": "context",
                 "size": 272000
-              }
+              },
+              "input": 60.0,
+              "output": 270.0
             }
           ],
           "context_over_200k": {
             "input": 60,
             "output": 270
-          }
+          },
+          "cache_read": 3.0
         }
       },
       "gpt-5.6": {
