@@ -12389,98 +12389,98 @@
         "cost": {
           "input": 0.0245,
           "output": 0.0978,
-          "cache_read": 0.0024499999999999995
+          "cache_read": 0.00244999
         }
       },
       "Qwen/Qwen3-235B-A22B-Thinking-2507-TEE": {
         "cost": {
           "input": 0.2989,
           "output": 1.1957,
-          "cache_read": 0.029889999999999993
+          "cache_read": 0.02988999
         }
       },
       "Qwen/Qwen3-32B-TEE": {
         "cost": {
           "input": 0.104,
           "output": 0.416,
-          "cache_read": 0.010399999999999998
+          "cache_read": 0.01039999
         }
       },
       "Qwen/Qwen3.5-397B-A17B-TEE": {
         "cost": {
           "input": 0.45,
-          "output": 3,
-          "cache_read": 0.04499999999999999
+          "output": 3.0,
+          "cache_read": 0.04499999
         }
       },
       "Qwen/Qwen3.6-27B-TEE": {
         "cost": {
           "input": 0.25,
-          "output": 2,
-          "cache_read": 0.024999999999999994
+          "output": 2.0,
+          "cache_read": 0.02499999
         }
       },
       "Qwen/Qwen3.8-27B-TEE": {
         "cost": {
           "input": 0.039,
           "output": 1.25,
-          "cache_read": 0.003899999999999999
+          "cache_read": 0.00389999
         }
       },
       "deepseek-ai/DeepSeek-V3.2-TEE": {
         "cost": {
-          "input": 1,
-          "output": 1,
-          "cache_read": 0.09999999999999998
+          "input": 1.0,
+          "output": 1.0,
+          "cache_read": 0.09999999
         }
       },
       "deepseek-ai/DeepSeek-V4-Flash-0731-TEE": {
         "cost": {
           "input": 0.44,
           "output": 1.32,
-          "cache_read": 0.04399999999999999
+          "cache_read": 0.04399999
         }
       },
       "google/gemma-4-31B-turbo-TEE": {
         "cost": {
           "input": 0.12,
           "output": 0.37,
-          "cache_read": 0.011999999999999997
+          "cache_read": 0.01199999
         }
       },
       "moonshotai/Kimi-K2.6-TEE": {
         "cost": {
           "input": 0.45,
           "output": 1.95,
-          "cache_read": 0.04499999999999999
+          "cache_read": 0.04499999
         }
       },
       "moonshotai/Kimi-K3-TEE": {
         "cost": {
           "input": 1.85,
           "output": 9.5,
-          "cache_read": 0.18499999999999997
+          "cache_read": 0.18499999
         }
       },
       "unsloth/Mistral-Nemo-Instruct-2407-TEE": {
         "cost": {
           "input": 0.0245,
           "output": 0.0978,
-          "cache_read": 0.0024499999999999995
+          "cache_read": 0.00244999
         }
       },
       "zai-org/GLM-5.1-TEE": {
         "cost": {
           "input": 0.98,
           "output": 3.08,
-          "cache_read": 0.09799999999999998
+          "cache_read": 0.09799999
         }
       },
       "zai-org/GLM-5.2-TEE": {
         "cost": {
           "input": 1.25,
           "output": 3.95,
-          "cache_read": 0.12499999999999997
+          "cache_read": 0.12499999
         }
       }
     }
