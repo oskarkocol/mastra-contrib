@@ -61471,13 +61471,13 @@
       },
       "gemma-4-31B-it": {
         "cost": {
-          "input": 0.38,
-          "output": 1.15
+          "input": 0.37999999,
+          "output": 1.14999999
         }
       },
       "gpt-oss-120b": {
         "cost": {
-          "input": 0.22,
+          "input": 0.21999999,
           "output": 0.59
         }
       }
