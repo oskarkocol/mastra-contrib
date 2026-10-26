@@ -32068,9 +32068,9 @@
       },
       "deepseek-v4.1-flash": {
         "cost": {
-          "input": 0.1,
-          "output": 0.3,
-          "cache_read": 0.0025
+          "input": 0.135,
+          "output": 0.54,
+          "cache_read": 0.0027
         }
       },
       "deepseek-v4.1-flash-1017": {
@@ -32235,9 +32235,9 @@
       },
       "glm-4.5-air": {
         "cost": {
-          "input": 0.2,
-          "output": 1.1,
-          "cache_read": 0.03,
+          "input": 0.13,
+          "output": 0.85,
+          "cache_read": 0.025,
           "cache_write": 0
         }
       },
@@ -32286,8 +32286,8 @@
       },
       "glm-4.7": {
         "cost": {
-          "input": 0.45,
-          "output": 2,
+          "input": 0.38,
+          "output": 1.98,
           "cache_read": 0.19,
           "cache_write": 0
         }
@@ -32310,8 +32310,8 @@
       },
       "glm-5": {
         "cost": {
-          "input": 0.573,
-          "output": 2.58,
+          "input": 0.72,
+          "output": 2.3,
           "cache_read": 0.144,
           "cache_write": 0
         }
@@ -32325,9 +32325,9 @@
       },
       "glm-5.1": {
         "cost": {
-          "input": 1.38,
-          "output": 4.4,
-          "cache_read": 0.26,
+          "input": 0.931,
+          "output": 2.93,
+          "cache_read": 0.173,
           "cache_write": 0
         }
       },
@@ -32348,9 +32348,9 @@
       },
       "glm-5.3": {
         "cost": {
-          "input": 0.45,
-          "output": 1.8,
-          "cache_read": 0.135
+          "input": 0.5,
+          "output": 2.0,
+          "cache_read": 0.15
         }
       },
       "glm-5.3-fast": {
@@ -32857,8 +32857,8 @@
       },
       "kimi-k2.5": {
         "cost": {
-          "input": 0.574,
-          "output": 3.011,
+          "input": 0.405,
+          "output": 1.98,
           "cache_read": 0.225
         }
       },
@@ -33278,7 +33278,7 @@
       "qwen3-next-80b-a3b-instruct": {
         "cost": {
           "input": 0.15,
-          "output": 1.5
+          "output": 1.2
         }
       },
       "qwen3-vl-235b-a22b-instruct": {
