@@ -64106,16 +64106,16 @@
       },
       "step-3.7-flash": {
         "cost": {
-          "input": 0.20175,
-          "output": 1.21052,
-          "cache_read": 0.04035
+          "input": 0.19999999999999998,
+          "output": 1.15,
+          "cache_read": 0.04
         }
       },
       "step-5-preview": {
         "cost": {
-          "input": 1.04613,
-          "output": 2.98895,
-          "cache_read": 0.10461
+          "input": 1,
+          "output": 2.7,
+          "cache_read": 0.09999999999999999
         }
       }
     }
