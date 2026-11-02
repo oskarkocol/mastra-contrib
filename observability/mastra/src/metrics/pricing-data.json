@@ -9909,10 +9909,10 @@
       },
       "claude-opus-4-8": {
         "cost": {
-          "input": 5,
-          "output": 25,
-          "cache_read": 0.5,
-          "cache_write": 6.25
+          "input": 10,
+          "output": 50,
+          "cache_read": 1,
+          "cache_write": 12.5
         }
       },
       "claude-opus-5": {
