@@ -39678,7 +39678,9 @@
       "MiniMax-M2": {
         "cost": {
           "input": 0.3,
-          "output": 1.2
+          "output": 1.2,
+          "cache_read": 0.03,
+          "cache_write": 0.375
         }
       },
       "MiniMax-M2.1": {
@@ -39701,7 +39703,7 @@
         "cost": {
           "input": 0.6,
           "output": 2.4,
-          "cache_read": 0.03,
+          "cache_read": 0.06,
           "cache_write": 0.375
         }
       },
@@ -39728,16 +39730,16 @@
           "cache_read": 0.06,
           "tiers": [
             {
-              "input": 0.6,
-              "output": 2.4,
-              "cache_read": 0.12,
               "tier": {
                 "type": "context",
                 "size": 512000
-              }
+              },
+              "input": 0.6,
+              "output": 2.4,
+              "cache_read": 0.12
             }
           ],
-          "context_over_200k": {
+          "context_over_512k": {
             "input": 0.6,
             "output": 2.4,
             "cache_read": 0.12
