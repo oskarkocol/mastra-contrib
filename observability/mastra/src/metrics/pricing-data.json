@@ -39987,9 +39987,9 @@
     "models": {
       "codestral-2508": {
         "cost": {
-          "input": 0.3,
-          "output": 0.9,
-          "cache_read": 0.03
+          "input": 0.33,
+          "output": 0.9900000000000001,
+          "cache_read": 0.032999999999999995
         }
       },
       "codestral-latest": {
@@ -40046,7 +40046,8 @@
       "magistral-medium-latest": {
         "cost": {
           "input": 2,
-          "output": 5
+          "output": 4.99999999,
+          "cache_read": 0.15
         }
       },
       "ministral-14b-2512": {
@@ -40100,8 +40101,8 @@
       "mistral-large-4": {
         "cost": {
           "input": 0.7,
-          "output": 2.1,
-          "cache_read": 0.07
+          "output": 2.0999999999999996,
+          "cache_read": 0.14
         }
       },
       "mistral-large-4-0-8": {
@@ -40139,8 +40140,8 @@
       },
       "mistral-medium-latest": {
         "cost": {
-          "input": 1.5,
-          "output": 7.5,
+          "input": 0.39999999999999997,
+          "output": 2,
           "cache_read": 0.15
         }
       },
@@ -40159,8 +40160,8 @@
       },
       "mistral-small-latest": {
         "cost": {
-          "input": 0.15,
-          "output": 0.6,
+          "input": 0.09999999999999999,
+          "output": 0.3,
           "cache_read": 0.015
         }
       },
