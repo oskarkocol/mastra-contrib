@@ -9906,10 +9906,10 @@
       },
       "claude-opus-5-5": {
         "cost": {
-          "input": 4,
-          "output": 20,
-          "cache_read": 0.2,
-          "cache_write": 5
+          "input": 8,
+          "output": 40,
+          "cache_read": 0.39999999999999997,
+          "cache_write": 10
         }
       },
       "claude-sonnet-4-5": {
