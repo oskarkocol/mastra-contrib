@@ -12226,14 +12226,14 @@
       },
       "google/gemma-4-31B-it": {
         "cost": {
-          "input": 0.280375,
-          "output": 0.56075
+          "input": 0.25,
+          "output": 0.5
         }
       },
       "mistralai/Mistral-Small-3.2-24B-Instruct-2506": {
         "cost": {
-          "input": 0.33645,
-          "output": 0.33645
+          "input": 0.3,
+          "output": 0.3
         }
       },
       "moonshotai/Kimi-K3": {
@@ -12251,8 +12251,8 @@
       },
       "zai-org/GLM-5.3-Flash": {
         "cost": {
-          "input": 0.29,
-          "output": 0.58
+          "input": 0.25,
+          "output": 0.5
         }
       }
     }
