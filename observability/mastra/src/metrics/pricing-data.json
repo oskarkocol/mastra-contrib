@@ -49605,15 +49605,16 @@
           "output": 180,
           "tiers": [
             {
-              "input": 60,
-              "output": 270,
               "tier": {
                 "type": "context",
                 "size": 272000
-              }
+              },
+              "input": 60,
+              "output": 270
             }
           ],
-          "context_over_200k": {
+          "cache_read": 3,
+          "context_over_272k": {
             "input": 60,
             "output": 270
           }
