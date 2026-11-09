@@ -17208,8 +17208,8 @@
       },
       "google/gemma-3-12b-it": {
         "cost": {
-          "input": 0.05,
-          "output": 0.15
+          "input": 0.075,
+          "output": 0.22499999999999998
         }
       },
       "google/gemma-3-27b-it": {
