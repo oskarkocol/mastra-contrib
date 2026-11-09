@@ -66598,14 +66598,14 @@
         "cost": {
           "input": 0.33,
           "output": 1.32,
-          "cache_read": 0.00825
+          "cache_read": 0.0083
         }
       },
       "deepseek-v4-1-flash-uncensored": {
         "cost": {
           "input": 0.33,
           "output": 1.32,
-          "cache_read": 0.00825
+          "cache_read": 0.0083
         }
       },
       "deepseek-v4-flash": {
@@ -66687,22 +66687,22 @@
       "gemini-3-6-flash": {
         "cost": {
           "input": 0.9375,
-          "output": 4.6875,
-          "cache_read": 0.09375
+          "output": 4.68749999,
+          "cache_read": 0.09380000000000001
         }
       },
       "gemini-3-7-flash": {
         "cost": {
           "input": 0.9375,
-          "output": 4.6875,
-          "cache_read": 0.09375
+          "output": 4.68749999,
+          "cache_read": 0.09380000000000001
         }
       },
       "gemini-3-8-flash": {
         "cost": {
           "input": 0.9375,
-          "output": 4.6875,
-          "cache_read": 0.09375
+          "output": 4.68749999,
+          "cache_read": 0.09380000000000001
         }
       },
       "gemini-3-flash-preview": {
@@ -66978,7 +66978,7 @@
         "cost": {
           "input": 0.3125,
           "output": 0.9375,
-          "cache_read": 0.03125
+          "cache_read": 0.031200000000000002
         }
       },
       "mercury-2-5": {
@@ -67006,14 +67006,14 @@
         "cost": {
           "input": 0.375,
           "output": 1.5,
-          "cache_read": 0.06875
+          "cache_read": 0.06879998999999999
         }
       },
       "minimax-m3-1-flash": {
         "cost": {
           "input": 0.1875,
           "output": 0.75,
-          "cache_read": 0.01875
+          "cache_read": 0.0188
         }
       },
       "minimax-m3-preview": {
@@ -67025,7 +67025,7 @@
       },
       "mistral-small-3-2-24b-instruct": {
         "cost": {
-          "input": 0.09375,
+          "input": 0.09380000000000001,
           "output": 0.25
         }
       },
@@ -67710,7 +67710,7 @@
         "cost": {
           "input": 0.175,
           "output": 0.35,
-          "cache_read": 0.00375
+          "cache_read": 0.0038
         }
       },
       "z-ai-glm-5-3": {
